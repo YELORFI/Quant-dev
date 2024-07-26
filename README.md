@@ -1,2 +1,2 @@
-# Quant-dev
-Anderson discretization vs semi-analytical method
+# Quantitative research
+Anderson discretization research vs semi-analytical method
